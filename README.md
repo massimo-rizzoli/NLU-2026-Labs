@@ -47,11 +47,13 @@ For both parts of the project, you must write a small report following the LaTeX
 
 ### Grading
 The final grade is based on:
-- Code review;
-- Report review;
-- Q&A at the exam.
+- Project (80%): Code and Report review;
+- Q&A at the exam (20%):
     -  The questions will be related to the delivered project, and any of the topics covered in the class and during the labs.
 
+### Use of AI tools
+Use of AI tools is allowed but must be declared in the report.
+You are responsible for all the code you deliver, and we may ask questions about your code.
 
 ### Submission format
 
